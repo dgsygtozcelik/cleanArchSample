@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  C24Task
+
+  Created by Bewerber  on 30.06.23.
+  
+*/
+
+// Navigation
+
+"navigation-title" = "C24-Task";
+
+// Error View
+
+"search-error-title" = "Error Title";
+"search-error-description" = "Error Description";
+"reload-button-text" = "Reload";
+
+// Copy-Right
+
+"copy-right-text" = "2016 Check24";
+
+// Filter
+
+"filter-all" = "Alle";
+"filter-available" = "Verfugbar";
+"filter-favorites" = "Vorgemerkt";
+
+
+//Products List
+
+"products-list-empty" = "No Products!";
